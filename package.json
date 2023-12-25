@@ -1,0 +1,18 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "Basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Parul Rathva",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
